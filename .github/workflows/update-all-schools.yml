@@ -20,7 +20,9 @@ jobs:
           node-version: 24
 
       - name: Install dependencies
-        run: npm install
+        run: |
+          npm install
+          npm install undici
 
       - name: Collect all schools
         run: node scripts/scrape-all-schools.mjs
