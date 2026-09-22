@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "name": "Tallinna 21. Kool",
+    "address": "Raua 6",
+    "district": "Kesklinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43672,
+    "lon": 24.76511
+  },
+  {
+    "id": 2,
+    "name": "Tallinna Inglise Kolledž",
+    "address": "Estonia pst 10",
+    "district": "Kesklinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43399,
+    "lon": 24.75222
+  },
+  {
+    "id": 3,
+    "name": "Tallinna Reaalkool",
+    "address": "Estonia pst 6",
+    "district": "Kesklinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43428,
+    "lon": 24.75022
+  },
+  {
+    "id": 4,
+    "name": "Tallinna Kesklinna Põhikool",
+    "address": "Pärnu mnt 11",
+    "district": "Kesklinn",
+    "level": "Põhikool",
+    "lat": 59.43212,
+    "lon": 24.74708
+  },
+  {
+    "id": 5,
+    "name": "Jakob Westholmi Gümnaasium",
+    "address": "Kevade 8",
+    "district": "Kesklinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43332,
+    "lon": 24.73222
+  },
+  {
+    "id": 6,
+    "name": "Tallinna Südalinna Kool",
+    "address": "Liivalaia 23",
+    "district": "Kesklinn",
+    "level": "Põhikool",
+    "lat": 59.42821,
+    "lon": 24.75492
+  },
+  {
+    "id": 7,
+    "name": "Kadrioru Saksa Gümnaasium",
+    "address": "Gonsiori 38",
+    "district": "Kesklinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43691,
+    "lon": 24.78557
+  },
+  {
+    "id": 8,
+    "name": "Tallinna Laagna Gümnaasium",
+    "address": "Vikerlase 16",
+    "district": "Lasnamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.44012,
+    "lon": 24.88034
+  },
+  {
+    "id": 9,
+    "name": "Tallinna Pae Gümnaasium",
+    "address": "Pae 5",
+    "district": "Lasnamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.42775,
+    "lon": 24.81168
+  },
+  {
+    "id": 10,
+    "name": "Lasnamäe Gümnaasium",
+    "address": "Pae 59",
+    "district": "Lasnamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.43343,
+    "lon": 24.84269
+  },
+  {
+    "id": 11,
+    "name": "Tallinna Kuristiku Gümnaasium",
+    "address": "K. Kärberi 9",
+    "district": "Lasnamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.44782,
+    "lon": 24.90621
+  },
+  {
+    "id": 12,
+    "name": "Tallinna Linnamäe Vene Lütseum",
+    "address": "Linnamäe tee 10",
+    "district": "Lasnamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.44961,
+    "lon": 24.87791
+  },
+  {
+    "id": 13,
+    "name": "Tallinna Mustamäe Gümnaasium",
+    "address": "Keskuse 18",
+    "district": "Mustamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.40736,
+    "lon": 24.68716
+  },
+  {
+    "id": 14,
+    "name": "Tallinna 32. Keskkool",
+    "address": "Kiili 10",
+    "district": "Mustamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.40198,
+    "lon": 24.69622
+  },
+  {
+    "id": 15,
+    "name": "Tallinna Tehnikagümnaasium",
+    "address": "Sõpruse pst 187",
+    "district": "Mustamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.39724,
+    "lon": 24.67582
+  },
+  {
+    "id": 16,
+    "name": "Tallinna Mustamäe Reaalgümnaasium",
+    "address": "E. Vilde tee 64",
+    "district": "Mustamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.40263,
+    "lon": 24.66791
+  },
+  {
+    "id": 17,
+    "name": "Tallinna Arte Gümnaasium",
+    "address": "E. Vilde tee 62",
+    "district": "Mustamäe",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.40309,
+    "lon": 24.67049
+  },
+  {
+    "id": 18,
+    "name": "Tallinna Nõmme Gümnaasium",
+    "address": "Raudtee 73",
+    "district": "Nõmme",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.38615,
+    "lon": 24.68542
+  },
+  {
+    "id": 19,
+    "name": "Tallinna Pääsküla Kool",
+    "address": "Vikerkaare 10",
+    "district": "Nõmme",
+    "level": "Põhikool",
+    "lat": 59.37182,
+    "lon": 24.64591
+  },
+  {
+    "id": 20,
+    "name": "Tallinna Kivimäe Põhikool",
+    "address": "Leegi 14",
+    "district": "Nõmme",
+    "level": "Põhikool",
+    "lat": 59.37688,
+    "lon": 24.66217
+  },
+  {
+    "id": 21,
+    "name": "Tallinna Õismäe Gümnaasium",
+    "address": "Õismäe tee 50",
+    "district": "Haabersti",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.41041,
+    "lon": 24.63741
+  },
+  {
+    "id": 22,
+    "name": "Tallinna Järveotsa Gümnaasium",
+    "address": "Järveotsa tee 31",
+    "district": "Haabersti",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.40871,
+    "lon": 24.62243
+  },
+  {
+    "id": 23,
+    "name": "Tallinna Väike-Õismäe Gümnaasium",
+    "address": "Õismäe tee 28",
+    "district": "Haabersti",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.41251,
+    "lon": 24.64228
+  },
+  {
+    "id": 24,
+    "name": "Tallinna Pelgulinna Gümnaasium",
+    "address": "Mulla 7",
+    "district": "Põhja-Tallinn",
+    "level": "Põhi- ja gümnaasium",
+    "lat": 59.44123,
+    "lon": 24.71457
+  }
+]
