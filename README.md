@@ -1,15 +1,10 @@
-# Tallinna lähima munitsipaalkooli otsing
+# Kõigi Tallinna koolide uuendus
 
-## Käivitamine
-1. Paigalda Node.js 20 või uuem.
-2. Käivita `npm install`.
-3. Käivita `npm run dev`.
-4. Tootmisversioon: `npm run build`.
+1. Asenda `src/App.jsx`.
+2. Lisa `scripts/scrape-all-schools.mjs`.
+3. Lisa `.github/workflows/update-all-schools.yml`.
+4. Lisa faili `src/styles.css` lõppu `src/styles-additions.css` sisu.
+5. Käivita Actions > Update all Tallinn schools > Run workflow.
+6. Kontrolli loodud `src/data/schools.json` ja seejärel Pages deploy.
 
-## Failid
-- `src/App.jsx` rakenduse loogika
-- `src/styles.css` Tallinna sinine visuaalne stiil
-- `src/data/schools.json` koolide andmestik
-- `public/haridusamet-logo.svg` kohalik logofail
-
-Märkus: logo SVG on tehniline kohalik variant. Enne ametlikku avaldamist asenda see Tallinna ametlikust identiteedipangast saadud logofailiga. Koolide nimekiri tuleks samuti enne avaldamist Haridusameti värske nimekirjaga üle kontrollida.
+Skript loeb Haridusameti koolide detaillehti, eristab munitsipaal-, riigi- ja erakoole ning geokodeerib aadressid, kui detaillehel ei ole kaardikoordinaate.
